@@ -1,0 +1,7 @@
+# Make sure it's exactly:
+streamlit
+pandas
+numpy
+scipy
+openpyxl
+plotly
